@@ -1,0 +1,10 @@
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\bin\Debug\P1_Code.exe.config
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\bin\Debug\P1_Code.exe
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\bin\Debug\P1_Code.pdb
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.FormHelloWorld.resources
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.Properties.Resources.resources
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.csproj.GenerateResource.cache
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.exe
+C:\Users\ander\source\repos\CSC470-P1\P1_Code\P1_Code\obj\Debug\P1_Code.pdb
