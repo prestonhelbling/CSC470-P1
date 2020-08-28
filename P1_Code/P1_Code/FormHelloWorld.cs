@@ -20,6 +20,12 @@ namespace P1_Code
         private void Form1_Load(object sender, EventArgs e)
         {
             CenterToScreen();
+
+        }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
